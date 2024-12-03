@@ -8,8 +8,8 @@ export default function Hire() {
         <TypewriterEffectSmooth words={[{text:"You"},{text:"can"},{text:"Hire"},{text:"Me"},{text:"in"},{text:"MarketPlace",className:"text-blue-500"}]}/>
         <p className='text-white text-xl font-light'>You can give me opportunity to give service</p>
         <div className='mt-9 flex gap-4'>
-            <a href="" className='px-4 py-2 bg-white text-black rounded-md text-xl'>Fiverr</a>
-            <a href="" className='px-4 py-2 bg-white text-black rounded-md text-xl'>Upwork</a>
+            <a href="https://www.fiverr.com/bdtech71965" className='px-4 py-2 bg-white text-black rounded-md text-xl'>Fiverr</a>
+            <a href="https://www.upwork.com/freelancers/~018622bb12d47a4c1c" className='px-4 py-2 bg-white text-black rounded-md text-xl'>Upwork</a>
         </div>
       </div>
     </div>

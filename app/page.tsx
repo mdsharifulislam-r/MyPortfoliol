@@ -91,7 +91,7 @@ export default function page() {
     <>
      <div className="bg-black ">
       <HeroParallax products={products} />
-      <HeroHighlight className="px-4 flex justify-center flex-col place-items-center">
+      <HeroHighlight className="px-4 flex justify-center flex-col place-items-center gap-5">
         <h1 className="text-white md:text-6xl text-3xl font-bold">Make Your Aamazing Website</h1>
         <div className="md:text-4xl  text-sm text-white flex gap-3 flex-wrap mt-10 md:mt-0 ">
           <span className="block mb-5 md:mb-0">using</span> <span className="p-3 mx-4 bg-green-500 rounded-md font-bold">React</span><span className="p-3 bg-purple-500 rounded-md font-bold">Next</span><span className="p-3 bg-pink-500 rounded-md font-bold mx-5">Node</span><span className="p-3 bg-blue-500 rounded-md font-bold ">Express</span>
