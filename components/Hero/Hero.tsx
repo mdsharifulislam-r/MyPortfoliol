@@ -119,9 +119,9 @@ export const Header = () => {
         I AM A <FlipWords words={['Designer',"Developer","Engineer"]} className=" uppercase"/>
       </h1>
       <p className="max-w-2xl text-base md:text-xl mt-8 text-neutral-200">
-        We build beautiful products with the latest technologies and frameworks.
-        We are a team of passionate developers and designers that love to build
-        amazing products.
+      A MERN Web Developer
+
+Resolving design problems, building smart user interfaces and useful interactions, developing rich web applications and seamless web experiences.
       </p>
       <div className="py-4">
         <a href="resume.pdf" download={'resume.pdf'} className="px-4 py-2 bg-white rounded-md">Download CV</a>
